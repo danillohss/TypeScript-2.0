@@ -1,6 +1,6 @@
 "use strict";
-const vnome = "Bruno";
-const vcanal = "CFB Cursos";
-const vcurso = "TypeScript";
-console.log(vnome);
-console.log(vcanal);
+const nome02 = "Bruno";
+const canal02 = "CFB Cursos";
+const curso02 = "TypeScript";
+console.log(nome02);
+console.log(canal02);

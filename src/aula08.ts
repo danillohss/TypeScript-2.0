@@ -1,6 +1,8 @@
-let dados: object = {
+let dados = {
     nome: "Danillo",
     idade: 25,
-    status: "A"
+    status: true,
 }
+
+dados.status = false;
 
