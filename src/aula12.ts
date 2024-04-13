@@ -6,6 +6,6 @@ function logar(user: string, password: string,): void {
 
 logar('Danillo', '123')
 
-function soma(n1: number, n2: number) {
+function somando(n1: number, n2: number) {
     return n1 + n2;
-}
+};

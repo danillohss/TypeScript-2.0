@@ -8,4 +8,4 @@ function novoUser(user: string, password: string, nome?: string) {
     console.log(`user: ${user}, password: ${password}, nome: ${nome}`);
 }
 
-novoUser('Usuario', 'Senha')
+novoUser('Usuario', 'Senha');

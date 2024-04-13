@@ -1,3 +1,5 @@
+const coisas = ["CORDA", "PILHA", "LAMPADA", "CHAVE"]
+
 export class pessoa {
     nome: string;
     altura: number;

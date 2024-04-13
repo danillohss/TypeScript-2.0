@@ -5,4 +5,3 @@ let dados = {
 }
 
 dados.status = false;
-

@@ -22,6 +22,4 @@ enum tipoUsuario {
     Admin = 100,
     Super = 1000,
 }
-
-const t1: tipoUsuario = 500;
-const t2: tipoUsuario = 10;
+const g2: tipoUsuario = 10;

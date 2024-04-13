@@ -15,3 +15,4 @@ class Cteste<T> {
 }
 
 const cteste1 = new Cteste<string>("10");
+

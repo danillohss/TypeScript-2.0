@@ -15,4 +15,4 @@ svalor = nvalor.toString();
 nvalor = Number.parseInt(svalor);
 
 console.log(typeof nvalor);
-console.log(nvalor)
+console.log(nvalor);

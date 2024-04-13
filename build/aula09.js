@@ -24,5 +24,4 @@ var tipoUsuario;
     tipoUsuario[tipoUsuario["Admin"] = 100] = "Admin";
     tipoUsuario[tipoUsuario["Super"] = 1000] = "Super";
 })(tipoUsuario || (tipoUsuario = {}));
-const t1 = 500;
-const t2 = 10;
+const g2 = 10;

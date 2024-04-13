@@ -8,4 +8,4 @@ function fsoma(...n: number[]) {
     return s;
 }
 
-console.log(fsoma(10, 20,1,1,1,1,1,1,1,2))
+console.log(fsoma(10, 20,1,1,1,1,1,1,1,2));
